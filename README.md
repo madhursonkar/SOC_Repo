@@ -1,0 +1,1 @@
+These files contain the practice code I wrote while I was learning various libraries. After that I have also learned how nueral network works and what are the various techniques to optimize nueral network. 
